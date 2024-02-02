@@ -20,9 +20,9 @@ TODO: Encoder setup
 
 
 ## Demo
-- **Open-loop velocity control:** `examples/velocity_control.ino`
+- **Velocity control:** `examples/velocity_control.ino`
 - **AS5600 test:** `examples/as5600.ino`
-- **Closed-loop position and stiffness-control:** `examples/position_control.ino`
+- **Position and stiffness-control:** `examples/position_control.ino`
 
 
 
