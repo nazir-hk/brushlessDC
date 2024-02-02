@@ -1,5 +1,4 @@
-# BrushlessDC
-Stiffness control with a brushless DC motor
+# Brushless DC motor control
 
 <p align="center">
   <img height="250" src="https://github.com/nazir-hk/brushlessDC/blob/main/files/gif.gif">
